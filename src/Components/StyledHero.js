@@ -1,3 +1,4 @@
+// @ts-nocheck
 import styled from 'styled-components'
 import defaultImg from '../images/room-10.jpeg'
 

@@ -1,4 +1,4 @@
-/* eslint-disable no-useless-constructor */
+// @ts-nocheck
 import React, {Component} from 'react'
 import defaultImg from '../images/room-1.jpeg'
 import {Link} from 'react-router-dom'
@@ -36,7 +36,7 @@ export default class SingleRoom extends Component {
                 </div>)
         }
 
-        const {name, desciption, capacity, size, price, extras, breakfast, pets, images} = room
+        const {name, description, capacity, size, price, extras, breakfast, pets, images} = room
 
         const [mainImg, ...defaultImg] = images
 
@@ -59,7 +59,7 @@ export default class SingleRoom extends Component {
                     <div className="single-room-info">
                         <article className="desc">
                             <h3>Details</h3>
-                            <p>{desciption}</p>
+                            <p>{description}</p>
                         </article>
                         <article className="info">
                             <h3>Info</h3>
