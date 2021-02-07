@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Resort_App/static/css/main.18d77c59.chunk.css",
+    "main.js": "/Resort_App/static/js/main.506e5dd3.chunk.js",
+    "main.js.map": "/Resort_App/static/js/main.506e5dd3.chunk.js.map",
+    "runtime-main.js": "/Resort_App/static/js/runtime-main.04f97ce4.js",
+    "runtime-main.js.map": "/Resort_App/static/js/runtime-main.04f97ce4.js.map",
+    "static/js/2.8a0c00a4.chunk.js": "/Resort_App/static/js/2.8a0c00a4.chunk.js",
+    "static/js/2.8a0c00a4.chunk.js.map": "/Resort_App/static/js/2.8a0c00a4.chunk.js.map",
+    "index.html": "/Resort_App/index.html",
+    "static/css/main.18d77c59.chunk.css.map": "/Resort_App/static/css/main.18d77c59.chunk.css.map",
+    "static/js/2.8a0c00a4.chunk.js.LICENSE.txt": "/Resort_App/static/js/2.8a0c00a4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Resort_App/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/Resort_App/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/Resort_App/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/Resort_App/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/Resort_App/static/media/room-10.681615dc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f97ce4.js",
+    "static/js/2.8a0c00a4.chunk.js",
+    "static/css/main.18d77c59.chunk.css",
+    "static/js/main.506e5dd3.chunk.js"
+  ]
+}
